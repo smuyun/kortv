@@ -4,7 +4,7 @@ https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIj
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png",KBS 2
 https://tving-live-o2-xcdn.tving.com/o2/v1/0198c70ae8c1153d78652b69a68dea/0198c70fd1291eb80e792b56648c3a/vc1_stream3.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODAyMzk4MTcsInBhdGgiOiIvbzIifQ.4qHPTGrBLUvhkxYvEIjFmPdrqRdBWezwlrct9gQbzKI
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/SBS.png", SBS
-http://123.140.197.22/stream/1/play.m3u8
+http://124.222.153.240/kakaotv/get_channel.php?channel=sbs
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/MBC.png",MBC
 https://tving-live-o2-skcdn.tving.com/o2/v1/0198cb52bab0153d78652b69a68df2/0198cbdbd1c41eb80e79539125d0a/vc1_stream3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLXNrY2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzgwMjM5ODQxfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=DL7mPfAZa2nI9IbRazqVC1Q7W6kKkiFI7Yn9zWMsremuJItffhBGHzozyjIM0CeOaURj4DPbHXTSeB-qU2OqBDdRoz0BrDQtmFpRMwp~9XN6bOnxeO88mAcYSm--Eh8HYzBdl~ozjpmUbFuEbzmOjQyiY4MnzBz2o4Vv1upFJwPL0IytHFM0lnuJELyqwra2xpsniFGBy7TWh0dQr2YbuyXO7L1eUDd1-wIPcyX6jYLi~K0r23zJJKNx0p0n8YWtMG95QC~OlPl6fxnkMpJJUB7-RPgius2XpO9NixbTOu75VXLTbDNC82sSNafEP7KhW-cOB5UxtYkqyEm~w-U44Q__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
 #EXTINF:-1 group-title="🐉한국방송🦆" tvg-logo="https://kenpark76.github.io/logo/MBN.png",mbn
